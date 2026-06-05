@@ -13,9 +13,9 @@
 
 ### 💫 About Me
 
-I am a passionate Computer Science student and researcher specializing in **Machine Learning, NLP, and Network Engineering**. I love bridge-building between complex backend/ML systems and efficient virtualized network architectures. 
+I am a passionate Computer Science student and researcher specializing in **Machine Learning, NLP, and Multi-modal frameworks**. I love bridge-building between complex backend/ML systems and efficient virtualized network architectures. 
 
-- 🔭 I’m currently refining my ensemble models for e-commerce security and deep learning architectures.
+- 🔭 I am currently upskilling in modern technologies to stay aligned with the latest developments in the tech industry.
 - 🎓 **B.E. CSE @ KLE Technological University, Hubballi** | 6th sem
 - 📜 **JNCIA-Junos Certified** (Juniper Networks) | **Python for Data Science** (IBM)
 - 🚀 AI Track Intern @ **Infosys Springboard Virtual Internship 7.0**
