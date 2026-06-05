@@ -49,10 +49,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Honnagudi&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Honnagudi&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Honnagudi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Honnagudi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
-
----
 
 <p align="center">✨ Always learning, always building ✨</p>
