@@ -40,7 +40,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Fake Review Detection](https://github.com/Vaishnavi-Honnagudi) | NLP + ML model using DistilBERT & LightGBM with ensemble learning — IEEE published | Python, DistilBERT, LightGBM |
+| [Fake Review Detection](https://ieeexplore.ieee.org/document/11507156) | NLP + ML model using DistilBERT & LightGBM with ensemble learning — IEEE published | Python, DistilBERT, LightGBM |
 | [UAV Video Captioning](https://github.com/Vaishnavi-Honnagudi) | Aerial video captioning using CNN encoder + attention-based decoder; evaluated on CapERA dataset | Python, Deep Learning |
 | [Clinic Management System](https://github.com/Vaishnavi-Honnagudi/clinic-app) | Full-stack app with role-based access, real-time queue, RESTful APIs; deployed on Vercel + Render | React, Node.js, MongoDB |
 
@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vaishnavi-Honnagudi&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vaishnavi-Honnagudi&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">✨ Always learning, always building ✨</p>
