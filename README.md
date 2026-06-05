@@ -80,16 +80,15 @@ I am a passionate Computer Science student and researcher specializing in **Mach
 </table>
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Honnagudi&show_icons=true&theme=visual&count_private=true" alt="Vaishnavi's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Honnagudi&layout=compact&theme=visual" alt="Top Languages" height="180px" />
-</p>
+### 📊 Profile Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Honnagudi&theme=visual" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=Vaishnavi-Honnagudi&label=Profile+Views&color=00629B&style=flat-square" alt="Profile Views" />
 </p>
+
+- ⚡ **GitHub Activity:** 
+  - 🛠️ Deep diving into Python, ML architectures, and network protocols.
+  - 📈 Contributing to open-source workflows and technical lab implementations.
+  - 🎯 Aiming for consistent daily commits and engineering deep work.
 
 <p align="center">✨ <em>Always learning, always building</em> ✨</p>
