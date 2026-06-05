@@ -45,8 +45,4 @@
 | [Clinic Management System](https://github.com/Vaishnavi-Honnagudi/clinic-app) | Full-stack app with role-based access, real-time queue, RESTful APIs; deployed on Vercel + Render | React, Node.js, MongoDB |
 
 ---
-### 📊 GitHub Activity
-
-![](https://komarev.com/ghpvc/?username=Vaishnavi-Honnagudi&color=blueviolet&style=flat)
-
 <p align="center">✨ Always learning, always building ✨</p>
