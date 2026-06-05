@@ -46,10 +46,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vaishnavi-Honnagudi&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+![](https://komarev.com/ghpvc/?username=Vaishnavi-Honnagudi&color=blueviolet&style=flat)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Honnagudi&layout=compact&theme=tokyonight&hide_border=true)
 
 <p align="center">✨ Always learning, always building ✨</p>
